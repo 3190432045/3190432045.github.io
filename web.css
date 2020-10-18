@@ -1,0 +1,41 @@
+body
+  { 
+  background: #00FF00 url(waitingbytheshore.png) no-repeat fixed top;
+  }
+
+h1 {
+    font-family:Microsoft YaHei, serif;
+    /*color:rgb(0, 0, 139);*/
+    color:rgb(255,255,255);
+    font-size: 110px;
+    text-align: left;
+    text-indent: 1em;
+}
+
+h2 {
+    font-family:Microsoft YaHei, serif;
+    color: darkolivegreen;
+   /* color:dodgerblue;*/
+    text-align: left;
+    text-indent: 2em;
+    font-size: 55px;
+}
+
+p {
+    font-family: 14px/1.5 'Microsoft YaHei',arial,tahoma,\5b8b\4f53,sans-serif;
+    text-indent: 8em;
+}
+p1 {
+    color: darkolivegreen;
+   /* color:dodgerblue;*/
+    font-size: 25px;
+}
+p2{
+    color: darkolivegreen;
+    font-size: 30px;
+}
+p3{
+    color: darkolivegreen;
+    font-size: 30px;
+}
+
